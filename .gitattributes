@@ -1,0 +1,4 @@
+* text=auto
+examples/sample.txt text eol=lf
+examples/reputation.json text eol=lf
+*.ps1 text eol=lf
